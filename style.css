@@ -189,6 +189,10 @@ section#inicio div#arraste a {
   border-radius: 50%;
 }
 
+.card-footer {
+  text-align: center;
+}
+
 @media (max-width: 1024px) {
   #header {
     left: -300px;
